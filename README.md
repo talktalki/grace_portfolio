@@ -1,9 +1,8 @@
-- Web page URL: https://cmustudent.github.io/tswd-portfolio-templates/
-- This repository: https://github.com/talktalki/grace_portfolio/
-
 # Portfolio
 This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
-
+- Web page URL: https://talktalki.github.io/grace_portfolio/
+- This repository: https://github.com/talktalki/grace_portfolio/
+  
 # About me
 Hi!  I really like data.  And I like visualizations.  So I guess you can say that I like data visualizations!
 
