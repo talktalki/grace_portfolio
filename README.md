@@ -1,22 +1,15 @@
 # About me
-Hi!  I really like data visualizations. 
+Hi!  I am a second-year masters student in the HCA program. I want to practice making creative, straightforward data visualizations.
 
 # What I hope to learn
 1. How to use colors
-2. 
+2. How to create narratives
 3. 
-
-- List item #1
-- List item #2
-- List item #3
 
 # Portfolio
 This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
 - Web page URL: https://talktalki.github.io/grace_portfolio/
 - This repository: https://github.com/talktalki/grace_portfolio/
-
-# Examples
-You can keep this section for stuff from in-class demos or your other work, or remove it. 
 
 ## Assignment: [Visualizing overnment Debt](visualizing-government-debt)
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
@@ -58,7 +51,6 @@ You get the idea - just don't forget the space between the # and your title.  `#
 
 Here's an example of how to add an image to my portfolio.  
   
-
 Alternately, you can set the size of the image using just a bit of HTML: 
 
 <img src="funny-dog-unsplash.jpg" width="200"/>
