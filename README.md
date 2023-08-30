@@ -1,15 +1,18 @@
+# portfolio
+- Web page URL: https://talktalki.github.io/grace_portfolio/
+- This repository: https://github.com/talktalki/grace_portfolio/
+  
 # About me
-Hi!  I am a second-year masters student in the HCA program. I want to practice making creative, straightforward data visualizations.
+Hi! I am a second-year masters student in the HCA program. I aspire to do analytical work in the healthcare industry, specifically with real world data, which includes health claims data and patient records. I want to practice making creative, straightforward data visualizations.
 
 # What I hope to learn
-1. How to use colors
+1. How to use colors
 2. How to create narratives
 3. 
 
 # Portfolio
 This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
-- Web page URL: https://talktalki.github.io/grace_portfolio/
-- This repository: https://github.com/talktalki/grace_portfolio/
+
 
 ## Assignment: [Visualizing overnment Debt](visualizing-government-debt)
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
