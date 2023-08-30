@@ -1,25 +1,19 @@
-# Portfolio
-This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
-- Web page URL: https://talktalki.github.io/grace_portfolio/
-- This repository: https://github.com/talktalki/grace_portfolio/
-  
 # About me
-Hi!  I really like data.  And I like visualizations.  So I guess you can say that I like data visualizations!
+Hi!  I really like data visualizations. 
 
 # What I hope to learn
-All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
-
-1. List item #1
-2. List item #2
-3. List item #3
-
-or...
+1. How to use colors
+2. 
+3. 
 
 - List item #1
 - List item #2
 - List item #3
 
 # Portfolio
+This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
+- Web page URL: https://talktalki.github.io/grace_portfolio/
+- This repository: https://github.com/talktalki/grace_portfolio/
 
 # Examples
 You can keep this section for stuff from in-class demos or your other work, or remove it. 
@@ -40,13 +34,9 @@ Part III(final-project-part-three)
 ## Other stuff you can do (you can remove this section - it's just for your reference.)
 
 ### Changing text
-
-You can change text, like this: 
-
 **Here's some bold** text.  Here's some *italic* text. Here's some ~~strikethrough~~ text. 
 
 ### Creating tables
-
 You can build tables like this: 
 
 | Name         | Type of pet | Favority activity 1 | FA 2   | FA 3            | FA 4                                |
@@ -67,9 +57,6 @@ You get the idea - just don't forget the space between the # and your title.  `#
 ### Adding images
 
 Here's an example of how to add an image to my portfolio.  
-
-![funny dog picture](funny-dog-unsplash.jpg)
-> Photo by <a href="https://unsplash.com/pt-br/@charlesdeluvio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">charlesdeluvio</a> on <a href="https://unsplash.com/photos/K4mSJ7kc0As?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   
 
 Alternately, you can set the size of the image using just a bit of HTML: 
