@@ -9,6 +9,7 @@ Hi! I am a second-year masters student in the HCA program. I aspire to do analyt
 1. How to use colors
 2. How to create narratives
 3. 
+[Click here!](kingcounty_demo.md)
 
 # Portfolio
 This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
@@ -19,6 +20,7 @@ For this assignment, make sure you set up and link to a new page.  This page is 
 
 ## Assignment 3&4: [Critique by Design](critique-by-design)
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `critique-by-design.md`.  
+
 
 ## Final project
 Here it might be helpful to include a high-level description of your final project. 
