@@ -4,7 +4,7 @@ This is my public portfolio for Telling Stories with Data at CMU!
 - This repository: https://github.com/talktalki/grace_portfolio/
   
 # About me
-Hi! I am a second-year masters student in the HCA program at CMU. I aspire to do analytical work in the healthcare industry, specifically with real world data, which includes health claims data and patient records. I want to practice making creative, intuitive data visualizations in order to communicate better!
+Hi! I am a second-year masters student in the HCA program at CMU. Before moving to Pittsburgh, I lived in Chicago, which is a beautiful city. I aspire to do analytical work in the healthcare industry, specifically with real world data, which includes health claims data and patient records. I want to practice making creative, intuitive data visualizations in order to communicate better!
 
 # What I hope to learn
 1. How to create narratives
