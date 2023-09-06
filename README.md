@@ -12,7 +12,7 @@ Hi! I am a second-year masters student in the HCA program at CMU. I aspire to do
 3. New tools to perform visualizations
 
 # Portfolio
-Here's a list of what I worked on.
+Here's a list of what I will work on over the next few weeks.
 
 ## Assignment 1: [Visualizing Government Debt](visualizing-government-debt)
 More to come!
