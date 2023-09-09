@@ -1,4 +1,4 @@
-| [home page]([https://talktalki.github.io/grace_portfolio.html]) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](https://talktalki.github.io/grace_portfolio/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Visualizing Government Debt
 ### Part 1: Government Debt Chart
