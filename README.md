@@ -17,6 +17,8 @@ Here's a list of what I will work on over the next few weeks.
 ## Assignment 1: [Visualizing Government Debt](visualizing-government-debt)
 More to come!
 
+## Tableau: [Tableau ](media_trust)
+
 ## Assignment 3&4: [Critique by Design](critique-by-design)
 More to come!
 
