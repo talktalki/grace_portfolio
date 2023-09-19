@@ -13,17 +13,14 @@ I will critique this visualization and create a redesign to improve on some of t
 ## II. Critique
 
 | Category       | Score | Notes |
-| -------------- | ----- |----- |
+| -------------- | ----- | ----- |
 | Usefulness     |   5   | The information is useful and relevant, but it's basic in that it only presents numbers. One could use the same data to highlight other aspects of the data to derive more interesting insights. |
 | Completeness   |   6   | There are a lot of colors. Between the pie chart and the table, the author indicated the matching color from the pie chart on the left side of the table, but because there are too many colors, it’s difficult to keep track which color indicates which country. |
 | Perceptibility |   6   | Using a 3D pie chart is not recommended as it can distort the size of the area in the pieces, and therefore wrongly represent the values of each piece. For instance, 31% in red looks much bigger than 30.9% in blue, even though it’s only 0.1% difference. |
 | Truthfulness   |   4   | When comparing the dataset and the visualization, I found that the number of students for China is actually incorrect! It must have been a typo. This is significant mistake that hurts the visualization's credibility. |
 | Intuitiveness  |   8   | The table and pie chart is pretty intuitive and easy to interpret. |
 | Aesthetics     |   6   | The visualization is simple but not exactly beautiful/pleasing to look at. Especially because there are too many colors, it might be more confusing than aesthetically pleasing. |
-| Engagement     |   7   | Again, the visualization shows interesting data - key message that shows lead countries of origin for international students. However, it could do more to encourage the audience to explore more about the topic. |
-
-*Notes on aspects that need improvements:*
-- Lack of key message. I think the author could do a little better to further develop the key message of the visualization. Right now, the visualization shows the top 10 countries in the world with most international students in the US, but it ends there. It would be better if there was a specific key message that the visualization targeted for the audience. For example, the visualization could tell a story about how the numbers changed for each country before and after the pandemic. (Key message: the number of foreign students studying in the United States fell sharply during the 2020/21 academic year) I would also update the data to represent the most relevant academic years as of now. 
+| Engagement     |   7   | Again, the visualization shows relevant data - current message is to show the lead countries of origin for international students. However, I think the author could do a little better to further develop the key message in order to encourage the audience to explore more about the topic. Right now, the visualization shows the top 10 countries in the world with most international students in the US, but it ends there. For example, the visualization could tell a story about how the numbers changed for each country before and after the pandemic. (Key message: the number of foreign students studying in the United States fell sharply during the 2020/21 academic year) I would also update the data to represent the most relevant academic years as of now. |
 
 ## III. Initial Sketch
 ![Sketch](sketch.jpg)
