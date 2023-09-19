@@ -6,8 +6,9 @@
 As an international student myself, I have always been interested in the enrollment of international students in the US and the breakdown of the numbers by country. Below is a visualization titled "By the Numbers: Who Sends the Most Students to Study in the U.S.?" as part of an article that provides a guide to the international students who plan to study in the US. The article uses _Open Doors_ as its source of data, which has long been regarded as the information resource on international students in the United States. 
 
 ![Original Visualization](study-in-the-US.png)
-- Source: https://www.affordablecollegesonline.org/international-students-guide-studying-in-usa/
-
+- Website Source: https://www.affordablecollegesonline.org/international-students-guide-studying-in-usa/
+- Data Source: https://opendoorsdata.org/data/international-students/leading-places-of-origin/
+ 
 I will critique this visualization and create a redesign to improve on some of the aspects that could be worked on.
 
 ## II. Critique
