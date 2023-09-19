@@ -12,11 +12,15 @@
 - Lack of key message. I think the author could do a little better to further develop the key message of the visualization. Right now, the visualization shows the top 10 countries in the world with most international students in the US, but it ends there. It would be better if there was a specific key message that the visualization targeted for the audience. For example, the visualization could tell a story about how the numbers changed for each country before and after the pandemic. (Key message: the number of foreign students studying in the United States fell sharply during the 2020/21 academic year) I would also update the data to represent the most relevant academic years as of now. 
 
 ## Sketches (wireframe)
+![Sketch](sketch.jpg)
 
 ## User Feedback
-- Feedback #1 by
+- Feedback #1 by mid-20's male student:
+1) The message is clear. It is a visualization that shows percentage of students decreasing during the covid period but has since picked up.
+2) Would like to see the magnitude of the change (include percentage values)
+3) Think about the intended audience. Is it people in the education industry? Could be the government?
 
-- Feedback #2 by
+- Feedback #2 by mid-20's female student:
 
   
 ## Redesign
