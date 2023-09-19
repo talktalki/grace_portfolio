@@ -32,22 +32,20 @@ I will critique this visualization and create a redesign to improve on some of t
 - Feedback #1 by mid-20's male student:
 1) The message is clear. It is a visualization that shows percentage of students decreasing during the covid period but has since picked up.
 2) Would like to see the magnitude of the change (include percentage values)
-3) hink about the intended audience. Is it people in the education industry? Could be the government?
+3) Think about the intended audience. Is it people in the education industry? Could be the government?
 
 - Feedback #2 by mid-20's female student:
-1) Confused why the line starts at 0% again for every academic year. it can be misleading
-2) add the % value for the line. Instead of starting from 0%, continue the prev line.
-3) Add pop-up that shows the raw count as well (in order to prevent misleading perceptions of the magnitude of the count)
-4) Might want to develop a specific story to highlight using the visualization
-5) Dont' spread out the labels of the countries too much - try to keep the gaps in scale so that the user has a better idea of the differences between countries.
-6) Change color scheme to something other than green/red to account for colorblindness.  
+1) Confused as to what the starting point is for each period.
+2) Add pop-up that shows the raw count as well (in order to prevent misleading perceptions of the magnitude of the count)
+3) Might want to develop a specific point/story to highlight using the visualization
+4) Dont' spread out the labels of the countries too much - try to keep the gaps in scale so that the user has a better idea of the differences between countries
+5) Change color scheme to something other than green/red to account for colorblindness.  
   
 ## V. Redesign
 <div class="flourish-embed flourish-slope" data-src="visualisation/15067570"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
--	What it shows
--	Why you selected the DV
--	What you attempted to show/do differently
+Now in this redesign, rather than showing the raw numbers, I show the percentage change between consecutive academic years divided into three periods: pre-covid, during covid, and post-covid. This design is intentional because I want to convey the message: enrollment of international students in the US significantly decreased right after covid hit, and has increased since then. 
 
-Process:
-- While in the process of redesigning, I noted there are limitations with the Flourish platform. For example, I wanted to color the background of the chart with different colors to differentiate the positive range and the negative range. However, Flourish only offers one choice of color to color the background. Another important part of the chart was to label the y-axis (0% at the initial node) so that I
+The intended audience for this visualization could be the admissions office, the government or anybody who's interested in knowing the makeup of international students in the US as well as the trend over years. However, I do think that they need to have a good understanding of the concept of percentage change in order to understand this chart to the fullest extent.
+
+While in the process of redesigning, I noted there are limitations with the Flourish platform. For example, I wanted to color the background of the chart with different colors to differentiate the positive range and the negative range. However, Flourish only offers one choice of color to color the background. Another important part of the chart was to label the y-axis (0% at the initial node) but I couldn't do that with Flourish. Here is a screenshot of a version that includes this aspect. 
