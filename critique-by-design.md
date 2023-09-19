@@ -4,7 +4,7 @@
 
 ## Original Data Visualization
 ![Original Visualization](study-in-the-US.png)
-Source: https://www.affordablecollegesonline.org/international-students-guide-studying-in-usa/
+- Source: https://www.affordablecollegesonline.org/international-students-guide-studying-in-usa/
 
 ## Critique
 - A lot of colors. Between the pie chart and the table, the author indicated the matching color from the pie chart on the left side of the table, but because there are too many colors, it’s difficult to keep track which color indicates which country.
@@ -20,3 +20,4 @@ Source: https://www.affordablecollegesonline.org/international-students-guide-st
 
   
 ## Redesign
+<div class="flourish-embed flourish-slope" data-src="visualisation/15051819"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
