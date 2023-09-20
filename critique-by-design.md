@@ -28,16 +28,16 @@ I will critique this visualization and create a redesign to improve on some of t
 
 ## IV. User Feedback
 - Feedback #1 by mid-20's male student:
-1) The message is clear. It is a visualization that shows percentage of students decreasing during the covid period but has since picked up.
-2) Would like to see the magnitude of the change (include percentage values)
-3) Think about the intended audience. Is it people in the education industry? Could be the government?
+1. The message is clear. It is a visualization that shows percentage of students decreasing during the covid period but has since picked up.
+2. Would like to see the magnitude of the change (include percentage values)
+3. Think about the intended audience. Is it people in the education industry? Could be the government?
 
 - Feedback #2 by mid-20's female student:
-1) Confused as to what the starting point is for each period.
-2) Add pop-up that shows the raw count as well (in order to prevent misleading perceptions of the magnitude of the count)
-3) Might want to develop a specific point/story to highlight using the visualization
-4) Dont' spread out the labels of the countries too much - try to keep the gaps in scale so that the user has a better idea of the differences between countries
-5) Change color scheme to something other than green/red to account for colorblindness.  
+1. Confused as to what the starting point is for each period.
+2. Add pop-up that shows the raw count as well (in order to prevent misleading perceptions of the magnitude of the count)
+3. Might want to develop a specific point/story to highlight using the visualization
+4. Dont' spread out the labels of the countries too much - try to keep the gaps in scale so that the user has a better idea of the differences between countries
+5. Change color scheme to something other than green/red to account for colorblindness.  
   
 ## V. Redesign
 <div class="flourish-embed flourish-slope" data-src="visualisation/15067570"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
