@@ -1,7 +1,7 @@
 | [home page](https://talktalki.github.io/grace_portfolio/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 
-# Outline
+## Outline
 > Include a high-level summary of your project.  This should be a couple paragraphs that describe what you're interested in showing with your final project. 
 
 > A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  Make sure the outline is detailed enough that we can see how you anticipate your story unfolding.  You can incorporate your Story Arc from the in-class exercise along with your user stories and one sentence summary to make the topic even more clear. 
@@ -11,7 +11,7 @@
 > Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
 
 
-# The data
+## Dataset
 > A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
 
 
@@ -23,5 +23,5 @@
 |      |     |             |
 |      |     |             |
 
-# Method and medium
+## Method and medium
 > In a few sentences, you should document how you plan on completing your final project. 
