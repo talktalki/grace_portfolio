@@ -28,7 +28,7 @@ This dataset provides sociodemographic and geographic characteristics of the pop
 | Name | URL | Description |
 |------|-----|-------------|
 | NCHS | NCHS is a nationally representative household survey of the US population. Interviews are conducted yearly, and typically conducted in respondents’ homes or over the telephone. | https://www.cdc.gov/nchs/data/databriefs/db445-tables.pdf#1 |
-| HHS  | HHS provides us data showing that access to telehealth was not equitable across different population subgroups. | https://aspe.hhs.gov/sites/default/files/documents/4e1853c0b4885112b2994680a58af9ed/telehealth-hps-ib.pdf |
+| US Census Bureau | Household Pulse Survey (COVID-19) is designed to collect data on how people’s lives have been impacted by the covid-19 pandemic. Specifically, it gives us information on how access to and use of video-enabled vs. audio-only telehealth services differ across patient populations (by race, ethnicity, income, age, and insurance status). | https://aspe.hhs.gov/sites/default/files/documents/4e1853c0b4885112b2994680a58af9ed/telehealth-hps-ib.pdf |
 |      |     |             |
 
 ## Method and medium
