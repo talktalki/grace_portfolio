@@ -2,18 +2,20 @@
 
 
 ## Outline
-TeleMedicine has become a 
-The intended audience for this project is primarily healthcare providers and healthcare operations, but patients can also be part of the audience.
+TeleMedicine has become a useful tool for healthcare providers to deliver healthcare to patients, especially after the pandemic. Benefits of telemedicine include improved access to care, convenience, and slowing spread of disease. However, with the rise of utilization, we have also consequently seen the disparities of utilization across different sociodemographic and geographic characteristics. The aim of this project is to inform the audience of the existing disparities with telemedicine utilization and in response, provide an example of successful interventions of reducing these barriers. The intended audience for this project is primarily healthcare providers and healthcare operations, but patients can also be part of the audience.
 
 **Project structure**
 - Story Arc
 ![Story Arc](story_arc.png)
-- One-line summary: TeleMedicine is a useful tool, but it is not to everyone.
+- One-line summary: TeleMedicine is a useful tool, but *not* to everyone.
 - User story: As a reader, I want to understand the disparities in telemedicine utilization so that I can make this tool a universal one.
 - Call to action: I can do this by
 
 ## Initial sketches
 > Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.
+1. Trend over the years
+2. Disparities over different sub-groups (by region, age, education level, income level, language preference, etc)
+3. Example application of helpful intervention to reduce disparity
 
 ## Dataset
 > A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
