@@ -6,11 +6,11 @@ Include a high-level summary of your project. This should be a couple paragraphs
 TeleMedicine
 
 **Project structure**
-> Story Arc
+- Story Arc
 .jpg
-> One line summary: TeleMedicine
-> User story: As a reader, I want to understand the benefits of telemedicine so that I can utilize this tool for my benefit.
-> Call to action: I can do this by using TeleMedicine as an option for my personal health checkup.
+- One line summary: TeleMedicine
+- User story: As a reader, I want to understand the benefits of telemedicine so that I can utilize this tool for my benefit.
+- Call to action: I can do this by using TeleMedicine as an option for my personal health checkup.
 
 ## Initial sketches
 > Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
