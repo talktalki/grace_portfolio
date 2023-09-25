@@ -12,14 +12,14 @@ TeleMedicine has become a useful tool for healthcare providers to deliver health
 - Call to action: I can do this by
 
 ## Initial sketches
-> Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.
 1. Trend over the years
 2. Disparities over different sub-groups (by region, age, education level, income level, language preference, etc)
-3. Example application of helpful intervention to reduce disparity
+3. Geo-spatial map
+4. Example application of helpful intervention to reduce disparity
 
 ## Dataset
-> A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
-- Dataset: National Center for Health Statistics, National Health Interview Survey, 2021.
+- Dataset 1: National Center for Health Statistics, National Health Interview Survey, 2021.
+- Dataset 2: National Center for Health Statistics, National Health Interview Survey, 2021.
 Trends in use of telemedicine in the recent years (2019-2023) (role during the pandemic)
 Population demographics of who use telemedicine
 Patient satisfaction/feedback on telemedicine
@@ -27,10 +27,10 @@ Benefits
 
 | Name | URL | Description |
 |------|-----|-------------|
-| NCHS | https://www.cdc.gov/nchs/data/databriefs/db445-tables.pdf#1 | NCHS is a nationally representative household survey of the US population. Interviews are conducted yearly, and typically conducted in respondents’ homes or over the telephone. |
-| HHS  | https://aspe.hhs.gov/sites/default/files/documents/4e1853c0b4885112b2994680a58af9ed/telehealth-hps-ib.pdf    | but research suggeststhat
-access to telehealth was not equitable across different population subgroups.             |
+| NCHS | NCHS is a nationally representative household survey of the US population. Interviews are conducted yearly, and typically conducted in respondents’ homes or over the telephone. | https://www.cdc.gov/nchs/data/databriefs/db445-tables.pdf#1 |
+| HHS  | HHS provides us data showing that access to telehealth was not equitable across different population subgroups. | https://aspe.hhs.gov/sites/default/files/documents/4e1853c0b4885112b2994680a58af9ed/telehealth-hps-ib.pdf |
 |      |     |             |
 
 ## Method and medium
-> In a few sentences, you should document how you plan on completing your final project. 
+> In a few sentences, you should document how you plan on completing your final project.
+Using shorthand, 
