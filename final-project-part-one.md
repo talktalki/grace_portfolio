@@ -7,9 +7,9 @@ The intended audience for this project is primarily healthcare providers and hea
 
 **Project structure**
 - Story Arc
-.jpg
+![Story Arc](story_arc.png)
 - One-line summary: TeleMedicine is a useful tool, but it is not to everyone.
-- User story: As a reader, I want to understand the disparities related to telemedicine so that I can make this tool a universal one.
+- User story: As a reader, I want to understand the disparities in telemedicine utilization so that I can make this tool a universal one.
 - Call to action: I can do this by
 
 ## Initial sketches
@@ -26,7 +26,8 @@ Benefits
 | Name | URL | Description |
 |------|-----|-------------|
 | NCHS | https://www.cdc.gov/nchs/data/databriefs/db445-tables.pdf#1 | NCHS is a nationally representative household survey of the US population. Interviews are conducted yearly, and typically conducted in respondents’ homes or over the telephone. |
-|      |     |             |
+| HHS  | https://aspe.hhs.gov/sites/default/files/documents/4e1853c0b4885112b2994680a58af9ed/telehealth-hps-ib.pdf    | but research suggeststhat
+access to telehealth was not equitable across different population subgroups.             |
 |      |     |             |
 
 ## Method and medium
