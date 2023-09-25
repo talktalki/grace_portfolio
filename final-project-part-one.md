@@ -2,26 +2,26 @@
 
 
 ## Outline
-Include a high-level summary of your project. This should be a couple paragraphs that describe what you're interested in showing with your final project. 
-TeleMedicine
+TeleMedicine has become a 
+The intended audience for this project is primarily healthcare providers and healthcare operations, but patients can also be part of the audience.
 
 **Project structure**
 - Story Arc
 .jpg
-- One line summary: TeleMedicine
-- User story: As a reader, I want to understand the benefits of telemedicine so that I can utilize this tool for my benefit.
-- Call to action: I can do this by using TeleMedicine as an option for my personal health checkup.
+- One-line summary: TeleMedicine is a useful tool, but it is not to everyone.
+- User story: As a reader, I want to understand the disparities related to telemedicine so that I can make this tool a universal one.
+- Call to action: I can do this by
 
 ## Initial sketches
-> Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
-
+> Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.
 
 ## Dataset
 > A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
-Dataset: National Center for Health Statistics, National Health Interview Survey, 2021.
-
-
-> A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
+- Dataset: National Center for Health Statistics, National Health Interview Survey, 2021.
+Trends in use of telemedicine in the recent years (2019-2023) (role during the pandemic)
+Population demographics of who use telemedicine
+Patient satisfaction/feedback on telemedicine
+Benefits
 
 | Name | URL | Description |
 |------|-----|-------------|
