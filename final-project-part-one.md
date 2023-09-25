@@ -9,7 +9,7 @@ TeleMedicine has become a useful tool for healthcare providers to deliver health
 ![Story Arc](story_arc.png)
 - One-line summary: TeleMedicine is a useful tool, but *not* to everyone.
 - User story: As a reader, I want to understand the disparities in telemedicine utilization so that I can make this tool a universal one.
-- Call to action: I can do this by
+- Call to action: I can do this by employing interventions to reduce disparities at my facility.
 
 ## Initial sketches
 1. Trend over the years
@@ -19,11 +19,11 @@ TeleMedicine has become a useful tool for healthcare providers to deliver health
 
 ## Dataset
 - Dataset 1: National Center for Health Statistics, National Health Interview Survey, 2021.
-- Dataset 2: National Center for Health Statistics, National Health Interview Survey, 2021.
-Trends in use of telemedicine in the recent years (2019-2023) (role during the pandemic)
-Population demographics of who use telemedicine
-Patient satisfaction/feedback on telemedicine
-Benefits
+This dataset provides trends in use of telemedicine in the recent years (2019-2023). This can inform the readers of the impactful role of telemedicine during the pandemic.
+Benefits through patient satisfaction/feedback on telemedicine
+- Dataset 2: 
+This dataset provides sociodemographic and geographic characteristics of the population utilizing telemedicine.
+- Dataset 3:
 
 | Name | URL | Description |
 |------|-----|-------------|
