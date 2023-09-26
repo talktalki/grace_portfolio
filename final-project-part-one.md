@@ -6,7 +6,7 @@ TeleMedicine has become a useful tool for healthcare providers to deliver health
 
 **Project structure**
 - Story Arc
-![Story Arc](story_arc.png)
+![Story Arc](story_arc.jpg)
 - One-line summary: TeleMedicine is a useful tool, but *not* to everyone.
 - User story: As a reader, I want to understand the disparities in telemedicine utilization so that I can make this tool a universal one.
 - Call to action: I can do this by employing interventions to reduce disparities at my facility.
@@ -32,5 +32,4 @@ This dataset provides sociodemographic and geographic characteristics of the pop
 |      |     |             |
 
 ## Method and medium
-> In a few sentences, you should document how you plan on completing your final project.
 Using shorthand, 
