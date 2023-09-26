@@ -14,21 +14,20 @@ TeleMedicine has become a useful tool for healthcare providers to deliver health
 ## Initial sketches
 1. Trend over the years
 2. Disparities over different sub-groups (by region, age, education level, income level, language preference, etc)
-3. Geo-spatial map
-4. Example application of helpful intervention to reduce disparity
+3. ![Util by race](util_by_race.jpg)
+4. Geo-spatial map
+5. Example application of helpful intervention to reduce disparity
 
 ## Dataset
 | Name | URL | Description |
 |------|-----|-------------|
 | NCHS-NHIS  | National Center for Health Statistics is a nationally representative household survey of the US population. National Health Interview Surveys (NHIS) are conducted yearly, and typically conducted in respondents’ homes or over the telephone. This dataset provides trends in use of telemedicine in the recent years (2019-2023). This can inform the readers of the impactful role of telemedicine during the pandemic. |
 | NCHS-NEHRS | National Electronic Health Record Survey collects information on both office-based physicians’ adoption and use of electronic health record (EHR) systems. 
-| US Census Bureau | Household Pulse Survey (COVID-19) is designed to collect data on how people’s lives have been impacted by the covid-19 pandemic. Specifically, it gives us information on how access to and use of video-enabled vs. audio-only telehealth services differ across patient populations (by race, ethnicity, income, age, and insurance status). |
-Benefits through patient satisfaction/feedback on telemedicine
-This dataset provides sociodemographic and geographic characteristics of the population utilizing telemedicine.
+| US Census Bureau | Household Pulse Survey (COVID-19) is designed to collect data on how people’s lives have been impacted by the covid-19 pandemic. Specifically, it gives us information on how access to and use of video-enabled vs. audio-only telehealth services differ across patient populations (by race, ethnicity, income, age, and insurance status). The data was collected over the periods April 2021 through August 2022. |
 
 1) https://www.cdc.gov/nchs/nehrs/questionnaires.htm
 2) https://www.cdc.gov/nchs/data/databriefs/db445-tables.pdf#1
-3) https://aspe.hhs.gov/sites/default/files/documents/4e1853c0b4885112b2994680a58af9ed/telehealth-hps-ib.pdf
+3) https://www.census.gov/programs-surveys/household-pulse-survey/datasets.html
 
 ## Method and medium
 Using shorthand, I will create a 
