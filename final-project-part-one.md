@@ -19,6 +19,7 @@ TeleMedicine has become a useful tool for healthcare providers to deliver health
 - Geo-spatial map
 
 ## Dataset
+
 | Name | Description |
 |------|-------------|
 | NCHS-NHIS  | National Center for Health Statistics collects and analyzes health data and statistics. National Health Interview Survey (NHIS) is a nationally representative household survey of the US population, and is conducted yearly - typically conducted in respondents’ homes or over the telephone. This dataset provides trends in use of telemedicine of the patients in the recent years. This can inform the readers of the impactful role of telemedicine during the pandemic. |
