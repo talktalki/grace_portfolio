@@ -18,18 +18,17 @@ TeleMedicine has become a useful tool for healthcare providers to deliver health
 4. Example application of helpful intervention to reduce disparity
 
 ## Dataset
-- Dataset 1: National Center for Health Statistics, National Health Interview Survey, 2021.
-This dataset provides trends in use of telemedicine in the recent years (2019-2023). This can inform the readers of the impactful role of telemedicine during the pandemic.
-Benefits through patient satisfaction/feedback on telemedicine
-- Dataset 2: 
-This dataset provides sociodemographic and geographic characteristics of the population utilizing telemedicine.
-- Dataset 3:
-
 | Name | URL | Description |
 |------|-----|-------------|
-| NCHS | NCHS is a nationally representative household survey of the US population. Interviews are conducted yearly, and typically conducted in respondents’ homes or over the telephone. | https://www.cdc.gov/nchs/data/databriefs/db445-tables.pdf#1 |
-| US Census Bureau | Household Pulse Survey (COVID-19) is designed to collect data on how people’s lives have been impacted by the covid-19 pandemic. Specifically, it gives us information on how access to and use of video-enabled vs. audio-only telehealth services differ across patient populations (by race, ethnicity, income, age, and insurance status). | https://aspe.hhs.gov/sites/default/files/documents/4e1853c0b4885112b2994680a58af9ed/telehealth-hps-ib.pdf |
-|      |     |             |
+| NCHS-NHIS  | National Center for Health Statistics is a nationally representative household survey of the US population. National Health Interview Surveys (NHIS) are conducted yearly, and typically conducted in respondents’ homes or over the telephone. This dataset provides trends in use of telemedicine in the recent years (2019-2023). This can inform the readers of the impactful role of telemedicine during the pandemic. |
+| NCHS-NEHRS | National Electronic Health Record Survey collects information on both office-based physicians’ adoption and use of electronic health record (EHR) systems. 
+| US Census Bureau | Household Pulse Survey (COVID-19) is designed to collect data on how people’s lives have been impacted by the covid-19 pandemic. Specifically, it gives us information on how access to and use of video-enabled vs. audio-only telehealth services differ across patient populations (by race, ethnicity, income, age, and insurance status). |
+Benefits through patient satisfaction/feedback on telemedicine
+This dataset provides sociodemographic and geographic characteristics of the population utilizing telemedicine.
+
+1) https://www.cdc.gov/nchs/nehrs/questionnaires.htm
+2) https://www.cdc.gov/nchs/data/databriefs/db445-tables.pdf#1
+3) https://aspe.hhs.gov/sites/default/files/documents/4e1853c0b4885112b2994680a58af9ed/telehealth-hps-ib.pdf
 
 ## Method and medium
-Using shorthand, 
+Using shorthand, I will create a 
