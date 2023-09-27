@@ -21,8 +21,8 @@ TeleMedicine has become a useful tool for healthcare providers to deliver health
 <div class="flourish-embed flourish-chart" data-src="visualisation/15165329"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 Call to Action (intervention suggestions): 
-- Increase digital literacy
-
+- Increase digital literacy (via public libraries, local government community, education centers, public schools, etc.)
+- Identify free internet hotspots (such as libraries, parks, and community centers) and give this information to patients before their telehealth visit.
 
 ## Dataset
 
