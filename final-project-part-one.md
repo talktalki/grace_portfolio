@@ -13,11 +13,16 @@ TeleMedicine has become a useful tool for healthcare providers to deliver health
 
 ## Initial sketches
 - Trend over the years
-
+![Util](Util_total.png)
 - Disparities over different sub-groups (by region, age, education level, income level, language preference, etc)
-![Util by race](util_by_race.jpg)
-- Geo-spatial map
+![Util by age](Util_by_age.png)
+![Util by race](Util_by_region.png)
+- Access to Technology Infrastructure for older patients
+<div class="flourish-embed flourish-chart" data-src="visualisation/15165329"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
+Call to Action (intervention suggestions): 
+- Increase digital literacy
+- 
 ## Dataset
 
 | Name | Description |
@@ -26,6 +31,7 @@ TeleMedicine has become a useful tool for healthcare providers to deliver health
 | NCHS-NEHRS | National Electronic Health Record Survey collects information on both office-based physicians’ adoption and use of electronic health record (EHR) systems. This dataset will give us information on the shift in trend of telemedicine usage for providers between 2019 and 2021. |
 | Telemedicine Use in the Last 4 Weeks | The U.S. Census Bureau, in collaboration with five federal agencies, launched the Household Pulse Survey to produce data on the social and economic impacts of the COVID-19 pandemic on American households. The Household Pulse Survey was designed to gauge the impact of the pandemic on employment status, consumer spending, food security, housing, education disruptions, and dimensions of physical and mental wellness. The data was collected over the periods April 2021 through August 2022. |
 | Medicare Telehealth Trends | This dataset provides information about people with Medicare who used telehealth services between January 2020 and March 2023. This dataset also divides the data by demographic characteristics of the patients. |
+| Pew Research Center | This dataset provides information about people with Medicare who used telehealth services between January 2020 and March 2023. This dataset also divides the data by demographic characteristics of the patients. |
 
 1) https://www.cdc.gov/nchs/data/databriefs/db445-tables.pdf#1 
 2) https://www.cdc.gov/nchs/nehrs/questionnaires.htm
@@ -34,4 +40,4 @@ TeleMedicine has become a useful tool for healthcare providers to deliver health
 5) https://data.cms.gov/summary-statistics-on-use-and-payments/medicare-service-type-reports/medicare-telehealth-trends
 
 ## Method and medium
-I will execute this project using the Shorthand platform.
+I will execute this project using the Shorthand platform. 
