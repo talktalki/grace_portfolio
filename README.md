@@ -15,15 +15,12 @@ Hi! I am a second-year masters student in the HCA program at CMU. Before moving 
 Here's a list of what I will work on over the next few weeks.
 
 ## Assignment 1: [Visualizing Government Debt](visualizing-government-debt)
-More to come!
+In this exercise, I get to delve into creating data visualization using online tools. I'll be using a web-based visualization tool initially, and then I'll be creating two of my own visualizations using Flourish.
 
-## Tableau: [Tableau ](media_trust)
-
-## Assignment 3&4: [Critique by Design](critique-by-design)
-More to come!
+## Assignment 2: [Critique by Design](critique-by-design)
+This assignment takes me through a five-step process to critique and recreate a data visualization. In step one, I searched for a data visualization that could be improved, ensuring I have access to the data. Then, I critiqued the visualization and sketched out a solution, considering both the redesign and the context of its presentation. I shared my sketches with two other individuals for feedback, and then utilized this feedback to modify my design and create a new data visualization.
 
 ## Final project
-More to come!
-[Part I](final-project-part-one)
-[Part II](final-project-part-two)
-[Part III](final-project-part-three)
+[Part I](final-project-part-one) | [Part II](final-project-part-two) | [Part III](final-project-part-three) <br>
+My culminating project tells the narrative: telehealth, despite its transformative potential, remains an elusive resource for the elderly residing in rural regions. I started out with extensive research, then gathered publicly accessible data, and created sketches to underscore insightful aspects of this issue. Then, I conducted a series of interviews, in order to garner insightful feedback. Based on the feedback, I used Flourish to craft a series of visualizations and lastly, used the Shorthand platform to create a user-friendly website to convey this narrative effectively.
+
